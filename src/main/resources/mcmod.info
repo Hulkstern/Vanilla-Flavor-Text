@@ -1,0 +1,16 @@
+[
+{
+	"modid": "VanillaFlavorText",
+	"name": "Vanilla Flavor Text",
+	"description": "MOD Description",
+	"version": "${version}",
+	"mcversion": "${mcversion}",
+	"url": "",
+	"updateUrl": "",
+	"authorList": ["Hulkstern"],
+	"credits": "My mom for puttin up with me",
+	"logoFile": "",
+	"screenshots": [],
+	"dependencies": []
+}
+]
